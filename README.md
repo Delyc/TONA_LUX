@@ -16,7 +16,7 @@ The following images were captured using the TONA Lux prototype.
 
 | Sample 1 | Sample 2 | Sample 3 |
 |---|---|---|
-| ![Skin Image 1](images/sample1.jpg) | ![Skin Image 2](images/sample2.png) | ![Skin Image 3](images/sample3.png) |
+| ![Skin Image 1](images/sample1.jpg) | ![Skin Image 2](images/sample2.png) | ![Skin Image 3](images/sample3.PNG) |
 
 These initial captures demonstrate the system's ability to resolve fine skin textures and surface details under controlled illumination.
 
